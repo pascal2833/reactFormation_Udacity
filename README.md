@@ -1,7 +1,7 @@
 # Contacts Project
 
 ### Main objectives:
-- lear basic / component (props, state, ...)
+- Learn basic / component (props, state, ...)
 
 ### Notes from Udacity:
 
